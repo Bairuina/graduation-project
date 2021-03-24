@@ -3,7 +3,7 @@
   <img src="public/poster.png" width="150" />
   <p align="center">Tomato Work 个人事务管理系统</b>
   <p align="center">
-    <a href="https://github.com/Bairuina/graduation-project" style="border-radius: 5px;color: #fff;background: #0082ff;padding:5px;margin:10px"> 
+    <a href="https://github.com/Bairuina/graduation-project"> 
       客户端
     </a>
       <a href="https://github.com/Bairuina/graduation-project-sever">
