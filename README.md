@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="public/poster.png" width="150" />
-  <p align="center">Tomato Work 个人事务管理系统</b>
+  <p align="center">Tomato Work 个人事务管理系统(客户端)</b>
   <p align="center">
     <a href="https://github.com/Bairuina/graduation-project"> 
       客户端
