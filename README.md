@@ -35,7 +35,7 @@ git clone https://github.com/Bairuina/graduation-project.git
 # 安装依赖
 yarn
 
-# 启动项目（账号：bairuina 密码：123456）
+# 启动项目（账号：Bairuina 密码：123456）
 yarn start
 
 # 项目打包

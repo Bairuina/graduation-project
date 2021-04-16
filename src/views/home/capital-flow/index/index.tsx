@@ -73,12 +73,12 @@ const ReminderPage: React.FC = function() {
       filters: [
         {
           text: '隐藏金额',
-          value: false
+          value: 'hidden'
         }
       ],
       render: (text: string, rowData: any) => (
         <span style={{ color: rowData.__color__ }}>
-          {state.filters.price && state.filters.price[0] ? '******' : rowData.__price__}
+          {state.filters.price ? '******' : rowData.__price__}
         </span>
       )
     },
