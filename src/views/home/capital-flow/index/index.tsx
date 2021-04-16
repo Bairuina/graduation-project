@@ -73,7 +73,7 @@ const ReminderPage: React.FC = function() {
       filters: [
         {
           text: '隐藏金额',
-          value: 'hidden'
+          value: 'hiddenValue'
         }
       ],
       render: (text: string, rowData: any) => (
