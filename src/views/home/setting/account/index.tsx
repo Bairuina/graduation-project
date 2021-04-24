@@ -85,7 +85,7 @@ const AccountPage: React.FC<Props & RouteComponentProps> = function ({ userInfo 
         </Form.Item>
       </Form>
 
-      <Divider orientation="left" plain>Server酱配置</Divider>
+      {/* <Divider orientation="left" plain>Server酱配置</Divider>
 
       <Form layout="vertical" form={form2} style={{ width: '300px' }}>
         <Form.Item
@@ -106,7 +106,7 @@ const AccountPage: React.FC<Props & RouteComponentProps> = function ({ userInfo 
         <Form.Item>
           <Button type="primary" onClick={handleSckey}>提交</Button>
         </Form.Item>
-      </Form>
+      </Form> */}
     </div>
   )
 }

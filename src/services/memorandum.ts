@@ -22,7 +22,9 @@ export function serviceGetMemorandumById(id: unknown) {
 
 // 删除
 export function serviceDeleteMemorandum(id: unknown) {
-  return http.delete(`${api.memorandum}/${id}`)
+  return http.delete(`${api.memorandum}/${id}`,{
+    headers: { successAlert: true }
+  })
 }
 
 // 更新
